@@ -18,17 +18,6 @@
     },
     {
       "aircraft": "B777",
-      "name": "Fly Hong Kong B777",
+name": "Fly Hong Kong B777",
       "texture": "textures/b777.png",
-      "thumbnail": "thumbnails/b777.png"
-    }
-  ]
-}
-
-
-{
-  "aircraft": "A320",
-  "name": "Fly Hong Kong A320",
-  "texture": "textures/a320.png",
-  "thumbnail": "thumbnails/a320.png"
-}
+      "thumbnail": "thumbnails/777.
