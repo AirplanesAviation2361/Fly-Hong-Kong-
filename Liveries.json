@@ -24,3 +24,11 @@
     }
   ]
 }
+
+
+{
+  "aircraft": "A320",
+  "name": "Fly Hong Kong A320",
+  "texture": "textures/a320.png",
+  "thumbnail": "thumbnails/a320.png"
+}
